@@ -1,0 +1,3 @@
+*** Parts *** 
+- MCP3008 Analog-to-Digital Converter
+- pico
