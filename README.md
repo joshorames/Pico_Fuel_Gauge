@@ -1,3 +1,4 @@
 # Pico_Fuel_Gauge
 Reads remainder of gas left from float fuel level sensor
-![image](https://github.com/user-attachments/assets/3e842bc4-f194-40e4-9b79-508249312ee7)
+![image](https://github.com/user-attachments/assets/cb341faa-c642-4bf2-a70f-6777314df0eb)
+
